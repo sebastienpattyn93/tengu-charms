@@ -1,10 +1,2 @@
 includes: ['layer:apt', 'layer:java', 'interface:http']
-repo: git@github.com/sebastienpattyn93/charms.git
-# https://github.com/juju/charm-tools/issues/277
-#config:
-#  deletes:
-#      - port
-#      - auth
-#      - java-flavor
-#      - install-type
-#      - java-major
+repo: git@github.com/sebastienpattyn93/tengu-charms.git
